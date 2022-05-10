@@ -3,11 +3,12 @@
 It is a real-time web page that allows you to see all bus stops along a selected route; this tracker shows all the bus route locations in Boston.
 
 # How to run
-When clicking on the page, it automatically show the bus route in boston every time.
+When clicking on the page, it automatically show the bus route in boston.
 
 # Roadmap of future improvements: 
-Add map color change
+Change map color to black 
 Add new icon instead of ping icon
+Choice of different places
 
 # License information: 
 The MIT License (MIT)
